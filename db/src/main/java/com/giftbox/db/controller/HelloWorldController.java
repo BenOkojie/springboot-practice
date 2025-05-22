@@ -1,4 +1,4 @@
-package com.giftbox.db;
+package com.giftbox.db.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
